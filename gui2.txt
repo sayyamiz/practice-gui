@@ -1,1 +1,2 @@
-this is first file created in the first branch created via gui and second file using gui
+this is the first file created in the first branch created via gui and second file using gui
+checking changes to the staging area after editing the file
